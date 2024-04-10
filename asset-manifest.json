@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/textcoverter/static/css/main.39ccdd9c.chunk.css",
+    "main.js": "/textcoverter/static/js/main.96798012.chunk.js",
+    "main.js.map": "/textcoverter/static/js/main.96798012.chunk.js.map",
+    "runtime~main.js": "/textcoverter/static/js/runtime~main.6c869e4b.js",
+    "runtime~main.js.map": "/textcoverter/static/js/runtime~main.6c869e4b.js.map",
+    "static/js/2.59c32d8e.chunk.js": "/textcoverter/static/js/2.59c32d8e.chunk.js",
+    "static/js/2.59c32d8e.chunk.js.map": "/textcoverter/static/js/2.59c32d8e.chunk.js.map",
+    "static/js/3.7426b29a.chunk.js": "/textcoverter/static/js/3.7426b29a.chunk.js",
+    "static/js/3.7426b29a.chunk.js.map": "/textcoverter/static/js/3.7426b29a.chunk.js.map",
+    "index.html": "/textcoverter/index.html",
+    "precache-manifest.8eb72c38aad56b2718d137490525841a.js": "/textcoverter/precache-manifest.8eb72c38aad56b2718d137490525841a.js",
+    "service-worker.js": "/textcoverter/service-worker.js",
+    "static/css/main.39ccdd9c.chunk.css.map": "/textcoverter/static/css/main.39ccdd9c.chunk.css.map"
+  }
+}
